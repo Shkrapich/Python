@@ -1,4 +1,4 @@
-# Импорт функции получения случайных чисел
+# Импорт функции получения случайных чисел sdsdsdsdsdsdsdsdsdsds
 # из модуля random.
 from random import randint
 
