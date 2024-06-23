@@ -1,5 +1,9 @@
 # Импорт функции получения случайных чисел sdsdsdsdsdsdsdsdsdsds
-# из модуля random.
+# 
+# sdsds
+# 
+# из модуля random.sdsdsdsdsdsdsdsdsdsdsdsddsd
+
 from random import randint
 
 # Получаем случайное число в диапазоне от 1 до 100.
@@ -22,3 +26,4 @@ while True:
         break
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)') 
+print('Отличная интуиция! Вы угадали число :)')
